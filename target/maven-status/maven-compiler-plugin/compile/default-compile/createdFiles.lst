@@ -1,0 +1,13 @@
+com\ideas2it\healthcare\service\impl\UserRoleServiceImpl.class
+com\ideas2it\healthcare\entity\User.class
+com\ideas2it\healthcare\dto\ResponseDTO.class
+com\ideas2it\healthcare\entity\Role.class
+com\ideas2it\healthcare\service\UserRoleService.class
+com\ideas2it\healthcare\exception\CustomExceptionHandler.class
+com\ideas2it\healthcare\repository\UserRepository.class
+com\ideas2it\healthcare\repository\RoleRepository.class
+com\ideas2it\healthcare\HealthcareApplication.class
+com\ideas2it\healthcare\dto\RoleDTO.class
+com\ideas2it\healthcare\dto\UserRoleDTO.class
+com\ideas2it\healthcare\mapper\CustomModelMapper.class
+com\ideas2it\healthcare\controller\UserRoleController.class
